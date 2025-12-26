@@ -19,7 +19,7 @@ Ingeniero Industrial y Magíster en Analítica con más de **6 años de experien
 
 ## 📊 Impacto y Logros Clave
 
-* **Productividad:** Incrementé en un **25% la eficiencia operativa** en Falabella mediante el diseño de pipelines de datos y tableros en BigQuery.
+* **Productividad:** Incrementé en un **75% la eficiencia operativa** en Falabella mediante el diseño de pipelines de datos y tableros en BigQuery.
 * **Gestión WMS:** Lideré la implementación de **Manhattan WMS**, integrando sistemas operativos (ERP/TMS) con soluciones de datos escalables.
 * **Agilidad:** Product Owner certificado (CSM) con experiencia real liderando equipos Scrum para el desarrollo de microservicios y herramientas de automatización.
 
