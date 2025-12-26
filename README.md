@@ -21,7 +21,7 @@ He liderado transformaciones digitales complejas en sectores de alta transaccion
 ## 💼 Experiencia Destacada (Product Ownership & Proyectos)
 
 * **Liderazgo de Proyectos Core:** Lideré la implementación del sistema **WMS Manhattan**, diseñando pipelines de datos críticos para la operación y el negocio.
-* **Impacto en Eficiencia:** Incrementé la productividad operativa en un **25%** mediante la automatización de procesos y el uso de **BigQuery (GCP)** para toma de decisiones en tiempo real.
+* **Impacto en Eficiencia:** Incrementé la productividad operativa en un **75%** mediante la automatización de procesos y el uso de **BigQuery (GCP)** para toma de decisiones en tiempo real.
 * **Product Owner de Datos:** Responsable del ciclo de vida de soluciones basadas en microservicios (React, .NET) y modelos de datos escalables para logística y gestión de personal.
 * **Gestión de Stakeholders:** Experiencia validando KPIs estratégicos y alineando soluciones técnicas con objetivos de rentabilidad y sostenibilidad corporativa.
 
