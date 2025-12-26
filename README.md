@@ -1,52 +1,55 @@
 # ¡Hola! Soy Johnny Castañeda 🚀
 
-### **Project Manager | Data Engineer**
+### **Product Owner de Datos | Project Manager Senior | Especialista en Analítica de Negocios**
 
-Ingeniero Industrial y Magíster en Analítica con más de **6 años de experiencia** liderando proyectos complejos de ingeniería, logística y tecnología. Experto en conectar la visión de negocio con la arquitectura de datos para optimizar procesos operativos.
+Soy un **Ingeniero Industrial** y **Magíster en Analítica** enfocado en la creación de productos digitales de alto impacto. Mi expertise radica en liderar la intersección entre **Machine Learning avanzado**, **Arquitectura Empresarial** y **Estrategia de Negocio**.
+
+He liderado transformaciones digitales complejas en sectores de alta transaccionalidad, asegurando siempre el **Manejo Responsable de la Información** y la optimización de procesos mediante metodologías ágiles.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico & Liderazgo
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GCP](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Scrum](https://img.shields.io/badge/scrum-00ADEE?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scrum Master](https://img.shields.io/badge/Certified_Scrum_Master-00ADEE?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 📊 Impacto y Logros Clave
+## 💼 Experiencia Destacada (Product Ownership & Proyectos)
 
-* **Productividad:** Incrementé en un **75% la eficiencia operativa** en Falabella mediante el diseño de pipelines de datos y tableros en BigQuery.
-* **Gestión WMS:** Lideré la implementación de **Manhattan WMS**, integrando sistemas operativos (ERP/TMS) con soluciones de datos escalables.
-* **Agilidad:** Product Owner certificado (CSM) con experiencia real liderando equipos Scrum para el desarrollo de microservicios y herramientas de automatización.
-
----
-
-## 🚀 Proyectos Destacados
-
-> [!TIP]
-> **Pipeline de Datos Logísticos:** Diseño de flujo ETL para la gestión de inventarios y productividad en tiempo real.
-> **Optimización de Slotting:** Implementación de modelos de datos para la mejora de ubicación de mercancía en centros de distribución.
+* **Liderazgo de Proyectos Core:** Lideré la implementación del sistema **WMS Manhattan**, diseñando pipelines de datos críticos para la operación y el negocio.
+* **Impacto en Eficiencia:** Incrementé la productividad operativa en un **25%** mediante la automatización de procesos y el uso de **BigQuery (GCP)** para toma de decisiones en tiempo real.
+* **Product Owner de Datos:** Responsable del ciclo de vida de soluciones basadas en microservicios (React, .NET) y modelos de datos escalables para logística y gestión de personal.
+* **Gestión de Stakeholders:** Experiencia validando KPIs estratégicos y alineando soluciones técnicas con objetivos de rentabilidad y sostenibilidad corporativa.
 
 ---
 
-## 🎓 Educación & Certificaciones
+## 🎓 Formación Avanzada (Ejes de Maestría)
 
-* **Maestría en Analítica para la Inteligencia de Negocios** - Pontificia Universidad Javeriana.
-* **Maestría en Dirección y Administración Logística** - Universidad Internacional de La Rioja.
-* **Certified Scrum Master (CSM)** - Scrum Alliance.
-* **Data Privacy & GDPR** - Udemy.
-
+* **Analítica Avanzada:** Especializándome en técnicas de minería de datos (Clustering, Redes Neuronales, SVM), optimización y simulación para la toma de decisiones bajo incertidumbre.
+* **Arquitectura Empresarial & BPM:** Diseño de vistas de negocio, datos y aplicaciones alineadas a la estrategia corporativa utilizando notaciones estándar.
+* **Gobierno y Ética:** Sólidos conocimientos en manejo responsable de información, privacidad (GDPR), anonimización y legislación vigente.
+* **Finanzas Corporativas:** Capacitado en el análisis de estados financieros e indicadores de gestión para la toma de decisiones gerenciales.
 
 ---
 
-## 📫 Contacto
+## 🚀 Enfoque Actual en Proyectos
+
+> [!IMPORTANT]
+> **Data Governance Framework:** Implementación de mejores prácticas en seguridad y exactitud de la información en flujos de datos complejos.
+> **Predictive Operations:** Aplicación de analítica avanzada y minería de procesos para la mitigación de riesgos y eficiencia en entornos de alta transaccionalidad.
+
+---
+
+## 📫 Contacto Profesional
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-castaneda-marin-2aa1a5147)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnya.castanedam@gmail.com)
+
+---
 
 ---
 
