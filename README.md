@@ -18,6 +18,5 @@ Ingeniero Industrial con **6+ años de experiencia** liderando **proyectos logí
 - Analítica de negocio, automatización, BI, optimización de procesos y productos digitales orientados a operaciones.
 
 ### 🔗 Links
-- LinkedIn: TU_LINK
-- CV / Portafolio: TU_LINK
-- Proyectos destacados: (fija aquí tus repos principales)
+- LinkedIn: www.linkedin.com/in/johnny-castaneda-marin-2aa1a5147
+- 
