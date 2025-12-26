@@ -1,6 +1,6 @@
 # ¡Hola! Soy Johnny Castañeda 🚀
 
-### **Project Manager | Data Engineer | Especialista en Transformación Digital**
+### **Project Manager | Data Engineer **
 
 Ingeniero Industrial y Magíster en Analítica con más de **6 años de experiencia** liderando proyectos complejos de ingeniería, logística y tecnología. Experto en conectar la visión de negocio con la arquitectura de datos para optimizar procesos operativos.
 
