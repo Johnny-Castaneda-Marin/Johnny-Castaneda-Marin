@@ -18,9 +18,10 @@ He liderado transformaciones digitales complejas en sectores de alta transaccion
 ![Scrum Master](https://img.shields.io/badge/Certified_Scrum_Master-00ADEE?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 </p>
+
 ---
 
-## 💼 Experiencia Destacada (Product Ownership & Proyectos)
+## 💼 Experiencia Destacada (Product Ownership & Jefe de Proyectos)
 
 * **Liderazgo de Proyectos Core:** Lideré la implementación del sistema **WMS Manhattan**, diseñando pipelines de datos críticos para la operación y el negocio.
 * **Impacto en Eficiencia:** Incrementé la productividad operativa en un **75%** mediante la automatización de procesos y el uso de **BigQuery (GCP)** para toma de decisiones en tiempo real.
