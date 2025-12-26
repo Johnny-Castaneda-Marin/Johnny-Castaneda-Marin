@@ -41,25 +41,6 @@ Ingeniero Industrial y Magíster en Analítica con más de **6 años de experien
 * **Data Privacy & GDPR** - Udemy.
 
 
-
-
-
-
-
-
-
-## 🛠️ Stack Tecnológico
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-111?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-111?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
-
-
 ---
 
 ## 📫 Contacto
@@ -68,3 +49,10 @@ Ingeniero Industrial y Magíster en Analítica con más de **6 años de experien
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnya.castanedam@gmail.com)
 
 ---
+
+
+
+
+
+
+
