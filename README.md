@@ -1,6 +1,6 @@
 # ¡Hola! Soy Johnny Castañeda 🚀
 
-### **Project Manager | Data Engineer **
+### **Project Manager | Data Engineer**
 
 Ingeniero Industrial y Magíster en Analítica con más de **6 años de experiencia** liderando proyectos complejos de ingeniería, logística y tecnología. Experto en conectar la visión de negocio con la arquitectura de datos para optimizar procesos operativos.
 
@@ -39,6 +39,26 @@ Ingeniero Industrial y Magíster en Analítica con más de **6 años de experien
 * **Maestría en Dirección y Administración Logística** - Universidad Internacional de La Rioja.
 * **Certified Scrum Master (CSM)** - Scrum Alliance.
 * **Data Privacy & GDPR** - Udemy.
+
+
+
+
+
+
+
+
+
+## 🛠️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-111?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-111?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-111?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-111?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
 
 ---
 
