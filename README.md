@@ -9,13 +9,15 @@ He liderado transformaciones digitales complejas en sectores de alta transaccion
 ---
 
 ## 🛠️ Stack Tecnológico & Liderazgo
-
+<p align="center">
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GCP](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scrum Master](https://img.shields.io/badge/Certified_Scrum_Master-00ADEE?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
+</p>
 ---
 
 ## 💼 Experiencia Destacada (Product Ownership & Proyectos)
