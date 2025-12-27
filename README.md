@@ -2,7 +2,7 @@
 
 ### **Product Owner de Datos | Project Manager Senior | Especialista en Analítica de Negocios**
 
-Soy un **Ingeniero Industrial** y **Magíster en Analítica** enfocado en la creación de productos digitales de alto impacto. Mi expertise radica en liderar la intersección entre **Machine Learning**, **Metodologias Agiles** y **Estrategia de Negocio**.
+Soy **Ingeniero Industrial** y **Magíster en Analítica** enfocado en la creación de productos digitales de alto impacto. Mi expertise radica en liderar la intersección entre **Machine Learning**, **Metodologías Agíles** y **Estrategia de Negocio**.
 
 He liderado transformaciones digitales complejas en sectores de alta transaccionalidad, asegurando siempre el **Manejo Responsable de la Información** y la optimización de procesos mediante metodologías ágiles.
 
