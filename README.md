@@ -2,22 +2,55 @@
 
 ### **Product Owner de Datos | Project Manager Senior | Especialista en Analítica de Negocios**
 
-Soy un **Ingeniero Industrial** y **Magíster en Analítica** enfocado en la creación de productos digitales de alto impacto. Mi expertise radica en liderar la intersección entre **Machine Learning avanzado**, **Arquitectura Empresarial** y **Estrategia de Negocio**.
+Soy un **Ingeniero Industrial** y **Magíster en Analítica** enfocado en la creación de productos digitales de alto impacto. Mi expertise radica en liderar la intersección entre **Machine Learning**, **Metodologias Agiles** y **Estrategia de Negocio**.
 
 He liderado transformaciones digitales complejas en sectores de alta transaccionalidad, asegurando siempre el **Manejo Responsable de la Información** y la optimización de procesos mediante metodologías ágiles.
 
 ---
 
-## 🛠️ Stack Tecnológico & Liderazgo
-<p align="center">
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![GCP](https://img.shields.io/badge/gcp-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scrum Master](https://img.shields.io/badge/Certified_Scrum_Master-00ADEE?style=for-the-badge&logo=scrumalliance&logoColor=white)
+## 🛠️ Stack Tecnológico
 
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="140">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><br/>
+      <b>SQL</b>
+    </td>
+    <td align="center" width="140">
+      <img height="40" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/><br/>
+      <b>Excel</b>
+    </td>
+    <td align="center" width="140">
+      <img height="40" src="https://unpkg.com/@mdi/svg@7.4.47/svg/warehouse.svg"/><br/>
+      <b>Manhattan</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="140">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/><br/>
+      <b>Machine Learning</b>
+    </td>
+    <td align="center" width="140">
+      <img height="40" src="https://cdn.simpleicons.org/scrumalliance/009FDA"/><br/>
+      <b>Scrum</b>
+    </td>
+        <td align="center" width="140">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/><br/>
+      <b>GCP</b>
+    </td>
+    <td align="center" width="140">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/><br/>
+      <b>Jira</b>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -53,12 +86,6 @@ He liderado transformaciones digitales complejas en sectores de alta transaccion
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnya.castanedam@gmail.com)
 
 ---
-
----
-
-
-
-
 
 
 
