@@ -22,8 +22,8 @@ He liderado transformaciones digitales complejas en sectores de alta transaccion
       <b>SQL</b>
     </td>
     <td align="center" width="140">
-      <img height="40" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/><br/>
-      <b>Excel</b>
+      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/><br/>
+      <b>scikit-learn</b>
     </td>
     <td align="center" width="140">
       <img height="40" src="https://unpkg.com/@mdi/svg@7.4.47/svg/warehouse.svg"/><br/>
