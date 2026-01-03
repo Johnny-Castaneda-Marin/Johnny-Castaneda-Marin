@@ -33,7 +33,7 @@ He liderado transformaciones digitales complejas en sectores de alta transaccion
 
   <tr>
     <td align="center" width="140">
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/><br/>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/><br/>
       <b>Machine Learning</b>
     </td>
     <td align="center" width="140">
